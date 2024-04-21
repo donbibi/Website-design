@@ -1,5 +1,5 @@
 # Website-design
 
-$\text{Age, years} \sim \mathcal{N}(\mu=57,\,\sigma^{2}=225)$
+[Age Distribution of Two Hypothetical Populations](https://donbibi.github.io/Website-design/)
 
-[Link](https://donbibi.github.io/Website-design/)
+$\text{Age, years} \sim \mathcal{N}(\mu=57,\,\sigma^{2}=225)$
