@@ -3,7 +3,7 @@
 
 # HW4: Building my website  
 
-## Age Distribution of Two Hypothetical Population
+## Age Distribution of Two Hypothetical Populations
 
 ### Eyram Bansah, MD MPH
 
@@ -67,7 +67,7 @@ qui {
 }
 <</dd_do>>
 ```
-**Figure 1. Age distribution of two sample population**
+**Figure 1. Age distribution of two sample populations**
 
 <<dd_graph>>
 
